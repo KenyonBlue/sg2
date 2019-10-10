@@ -19,6 +19,7 @@ export class EmployeeComponent implements OnInit {
       mobile: '',
     }
   }
+  
 
   ngOnInit() {
     this.resetForm;
